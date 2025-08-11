@@ -19,20 +19,19 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-<img src="https://img.shields.io/badge/C-blue?logo=c" /> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff" /> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
+<img src="https://img.shields.io/badge/C-blue?logo=c" /> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
 
 **Front-end:**  
-<img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000" /> <img src="https://img.shields.io/badge/Next.js-15-000?logo=nextdotjs" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs" />
+<img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000" />  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/Next.js-15-000?logo=nextdotjs" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff" />
 
 **Back-end & APIs:**  
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" /> <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff" /> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose" /> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" /> <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff" /> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose" />
 
 **Databases & Cloud:**  
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff" />  
-Deployed on <img src="https://img.shields.io/badge/Vercel-000?logo=vercel" /> & <img src="https://img.shields.io/badge/Render-46E3B7?logo=render" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" /> <img src="https://img.shields.io/badge/Vercel-000?logo=vercel" /> <img src="https://img.shields.io/badge/Render-46E3B7?logo=render" />
 
 **Tools & Workflows:**  
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" /> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" /> <img src="https://img.shields.io/badge/StarUML-1B1B1B?logo=uml" /> <img src="https://img.shields.io/badge/Clerk-Auth-000?logo=clerk" /> <img src="https://img.shields.io/badge/Inngest-000?logo=inngest" /> <img src="https://img.shields.io/badge/Arcjet-000?logo=arcjet" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" /> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" /> <img src="https://img.shields.io/badge/StarUML-1B1B1B?logo=uml" />
 
 ---
 
